@@ -1,6 +1,5 @@
 - 👋 Hi, I’m @AryanSahu
-- 👀 I’m interested in Deep Learning,Computer Vision and Operating Systems
-- 🌱 I’m currently learning Reinforcement Learning and Blockchain Development
+- 👀 I’m interested in Deep Learning,Computer Vision and NLP
 - 💞️ I’m looking to collaborate on AI projects and bio-inspired topics.
 - 📫 https://aaryansahu.github.io/
 
